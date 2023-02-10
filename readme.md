@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JAVASCRIPT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/webdevankur/webdevankur/](https://github.com/webdevankur/webdevankur/)
+- 👨‍💻 All of my projects are available at [https://github.com/webdevankur/](https://github.com/webdevankur/)
 
 - 📝 I regularly write articles on [https://ankurtripathi.hashnode.dev/](https://ankurtripathi.hashnode.dev/)
 
