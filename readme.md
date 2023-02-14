@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **webdevankurtripathi@gmail.com**
 
-- ⛳ Linkedin Profile [www.linkedin.com/in/webdevankur](www.linkedin.com/in/webdevankur)
+- ⛳ Linkedin Profile [https://www.linkedin.com/in/webdevankur](https://www.linkedin.com/in/webdevankur)
 
 - ✋ Findcoder Profile [https://www.findcoder.io/u/webdevankur](https://www.findcoder.io/u/webdevankur)
 
