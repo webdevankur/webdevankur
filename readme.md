@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://ankurtripathi.hashnode.dev/](https://ankurtripathi.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, TAILWIND CSS, BOOTSRAP, JAVASCRIPT, REACT.JS,REDUX TOOLKIT**
+- 💬 Ask me about **HTML, CSS, TAILWIND CSS, BOOTSTRAP, JAVASCRIPT, REACT.JS,REDUX TOOLKIT**
 
 - 📫 How to reach me **webdevankurtripathi@gmail.com**
 
