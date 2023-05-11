@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ankur Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/webdevankur/](https://github.com/webdevankur/)
 
 - 📝 I regularly write articles on [https://ankurtripathi.hashnode.dev/](https://ankurtripathi.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, TAILWIND CSS, BOOTSRAP**
+- 💬 Ask me about **HTML, CSS, TAILWIND CSS, BOOTSRAP, JAVASCRIPT, REACT.JS,REDUX TOOLKIT**
 
 - 📫 How to reach me **webdevankurtripathi@gmail.com**
 
